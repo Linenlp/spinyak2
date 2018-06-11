@@ -1,0 +1,10 @@
+name: spinyak
+channels:
+- defaults
+dependencies:
+- python=3.5.4
+- pip:
+  - nltk==3.3
+  - pandas==0.23.0
+prefix: C:\Users\Linenlp\Anaconda3\envs\spinyak
+
